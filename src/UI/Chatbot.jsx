@@ -1,6 +1,6 @@
 // src/Chatbot.js
 import React, { useState } from "react";
-import "./Chatbot.css";
+import "../styles/Chatbot.css";
 
 const Chatbot = () => {
   const [isOpen, setIsOpen] = useState(false); // To toggle the chatbot visibility
