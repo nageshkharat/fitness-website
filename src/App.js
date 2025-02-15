@@ -6,7 +6,7 @@ import Header from "./component/Header";
 import AllRoutes from "./component/AllRoutes"; 
 import Chatbot from "./UI/Chatbot"; // Import Chatbot 
 
-function App() {
+function App() { 
   useEffect(() => {
     Aos.init();
   }, []);
