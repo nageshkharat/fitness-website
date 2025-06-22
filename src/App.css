@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Questrial&display=swap");
 
 :root {
-  --primary-color: #6f55f2;
+  --primary-color: #6f55f2; 
   --heading-color: #132742; 
   --bg-gradient: linear-gradient(
     90deg, 
